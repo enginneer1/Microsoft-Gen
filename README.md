@@ -1,2 +1,11 @@
-# Microsoft-Gen
-# MicroSoft-Gen MicroSoft account registration - Domains:   - All MicroSoft Domains (Hotmail,outlook,msn)   - .com,.uk...others   - No Proxies No Captcha   - Private APIs   - Free Updates - Contact: https://t.me/revverser
+# Microsoft-Gen 
+Microsoft account registration 
+- Domains:
+- All Microsoft Domains
+(Hotmail, outlook, msn)
+- .com, .uk...and others
+- no Proxies no Captcha
+- private APIs
+- free updates
+- Contact:
+- price:59$
