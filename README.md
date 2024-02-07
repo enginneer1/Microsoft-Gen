@@ -8,4 +8,3 @@ Microsoft account registration
 - private APIs
 - free updates
 - Contact:https://t.me/enginneer1
-
