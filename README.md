@@ -5,6 +5,6 @@ Microsoft account registration
 (Hotmail, outlook, msn)
 - .com, .uk...and others
 - no Proxies no Captcha
-- private APIs
+- private APIs 
 - free updates
 - Contact:https://t.me/enginneer1
