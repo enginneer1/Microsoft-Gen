@@ -7,4 +7,4 @@ Microsoft account registration
 - no Proxies no Captcha
 - private APIs 
 - free updates
-- Contact:https://t.me/enginneer1 
+- Contact:https://t.me/enginneer1
